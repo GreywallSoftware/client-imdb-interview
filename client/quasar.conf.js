@@ -23,36 +23,7 @@ module.exports = function (ctx) {
     ],
 
     // framework: 'all', // --- includes everything; for dev only!
-    framework: {
-      components: [
-        'QLayout',
-        'QHeader',
-        'QDrawer',
-        'QPageContainer',
-        'QPage',
-        'QToolbar',
-        'QToolbarTitle',
-        'QBtn',
-        'QIcon',
-        'QList',
-        'QItem',
-        'QItemSection',
-        'QItemLabel',
-        'QInnerLoading'
-      ],
-
-      directives: [
-        'Ripple'
-      ],
-
-      // Quasar plugins
-      plugins: [
-        'Notify'
-      ]
-
-      // iconSet: 'ionicons-v4'
-      // lang: 'de' // Quasar language
-    },
+    framework: 'all',
 
     supportIE: false,
 
