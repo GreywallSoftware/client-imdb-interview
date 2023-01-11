@@ -12,7 +12,7 @@
     "machine-as-action": "^10.3.0",
     "sails": "^1.1.0",
     "sails-disk": "^1.1.0",
-    "sails-hook-grunt": "^3.1.0",
+    "sails-hook-grunt": "^5.0.0",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^1.5.5"
   },
